@@ -59,6 +59,7 @@ node_modules
 *.iws
 *.iml
 *.ipr
+*.xml
 
 ### NetBeans ###
 /nbproject/private/
@@ -89,6 +90,7 @@ front/error-screenshots/
 
 ## AÑADIDOS MANUALMENTE:
 .idea/
+/.idea
 .out
 target/
 *_w.json
